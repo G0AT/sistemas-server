@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Sistema para control de peticiones de operaciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Ángel González López",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.0.2"
+  }
+}
